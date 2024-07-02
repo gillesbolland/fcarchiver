@@ -43,4 +43,4 @@ Before running `fcarchiver`, ensure you have the following dependencies installe
     Now you can run `fcarchiver` with the desired directory path:
 
    ```bash
-    ./fcarchiver /path/to/your/directory
+   ./fcarchiver /path/to/your/directory
