@@ -1,6 +1,6 @@
 # fcarchiver
 
-fcarchiver is a Bash script designed to automate the process of creating a Final Cut Pro archive for a specified directory. It scans the directory for supported media files, generates a plist file (`FCArchMetadata.plist`) with necessary metadata, and optionally adjusts file creation dates based on file content or metadata.
+fcarchiver is a Bash script designed to automate the process of creating a Final Cut Pro camera archive for a specified directory. It scans the directory for supported media files, generates a plist file (`FCArchMetadata.plist`) with necessary metadata, and optionally adjusts file creation dates based on file content or metadata.
 
 ## Features
 
